@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.block-1{
+    float:left;
+    width: 30%;
+    height: 90vh;
+    line-height: 90vh;
+    background-color: rgb(147, 255, 158);
+}
+.block-2-3{
+    float: right;
+    width: 70%;
+}
+.block-2{
+    height:10vh;
+    line-height: 10vh;
+    background-color: rgb(88, 209, 255);
+}
+.block-3{
+    height: 80vh;
+    line-height: 80vh;
+    background-color: rgb(255, 221, 89);
+}
+.block-4-5{
+    height:10vh;
+    line-height: 10vh;
+}
+.block-4{
+    float:left;
+    width: 80%;
+    height: 100%;
+    background-color: rgb(255,242,147);
+}
+.block-5{
+    float: right;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(255,128,192);
+}
